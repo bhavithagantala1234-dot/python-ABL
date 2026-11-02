@@ -46,7 +46,11 @@ Calculate student totals, averages and identify top performers.
 
 ### Case Study 10: Smart Canteen Order and Stock Management
 Calculate food bills and update available stock.
+# Python ABL Assignment
 
+[📄 View Assignment PDF](Python_ABL_Assignment_Report%20%281%29.pdf)
+
+[⬇️ Download Assignment PDF](https://github.com/bhavithagantala1234-dot/python-ABL/raw/refs/heads/main/Python_ABL_Assignment_Report%20%281%29.pdf)
 ---
 
 ## Technologies Used
